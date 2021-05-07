@@ -1,0 +1,18 @@
+.main-scatterplot-section {
+  height: 60vh;
+  margin: 1rem;
+}
+
+.vs-axes {
+  font-size: 1.8rem;
+  margin: 0 2rem;
+}
+
+.axis-label {
+  text-anchor: middle;
+  font-size: 0.8rem;
+}
+
+.chart-wrapper {
+  display: inline-block;
+}
